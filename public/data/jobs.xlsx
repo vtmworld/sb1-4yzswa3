@@ -1,0 +1,5 @@
+ID,Title,Company,Location,Type,Description,Requirements,SalaryMin,SalaryMax,SalaryCurrency,PostedDate,ApplicationUrl,CompanyLogo
+1,Senior Frontend Developer,TechCorp Solutions,San Francisco CA,FULL_TIME,"As a Senior Frontend Developer, you will be responsible for building and maintaining high-quality web applications. You will work with a team of talented developers to create innovative solutions.","5+ years of experience with React
+Strong TypeScript skills
+Experience with modern frontend tooling
+Understanding of web performance optimization",120000,180000,USD,2024-03-15,https://example.com/apply/1,https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=100&h=100&fit=crop
